@@ -70,4 +70,3 @@ cd product-service && npm test
 - **Validation**: class-validator
 
 ---
-*Maintained for the DecodeUp Interview Task.*
